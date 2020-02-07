@@ -1,8 +1,8 @@
 package api
 
 import (
-	"ivan_search/api/services"
-	"ivan_search/configuration"
+	"NetMGT/api/services"
+	"NetMGT/configuration"
 
 	"github.com/gin-gonic/gin"
 )

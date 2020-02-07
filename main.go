@@ -1,9 +1,9 @@
 package main
 
 import (
+	"NetMGT/api"
+	"NetMGT/configuration"
 	"flag"
-	"ivan_search/api"
-	"ivan_search/configuration"
 	"log"
 	"math/rand"
 	"net/http"
